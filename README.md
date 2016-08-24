@@ -1,8 +1,7 @@
-==================================ColorShift================================
-You're angry. You're a bird. You're stuck in a cave with giant pillars rolling at you from opposite directions. You know that if you are the same color as the pillar, It can't smash you. You must use your top notch camouflage skill to survive the cave!
-
+Player control the birds. Match the color of the pillars to pass through the pillar without dying. Pillars can come from either direction (left or right), and once your score reachs 10, a second pillar runs from the vertical directions.
 Objective: Score 15 points or higher to win!
 How to win: Change the color of your bird to match the pillar colors as they come towards you! Pillars will come from your left or right randomly, and their colors will be random too! Watch out!
+Tip: once there are two pillars, try to pass through the horizontal pillar first as they will move slightly quicker than the vertical one.
 
 Buttons (Keyboard):
 A = red bird
